@@ -1,0 +1,2 @@
+# opencltest
+experiment with OpenCL
